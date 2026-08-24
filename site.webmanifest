@@ -1,0 +1,44 @@
+{
+  "name": "LinkMarket | بازار خدمات سئو و برنامه‌نویسی حرفه‌ای ایران",
+  "short_name": "LinkMarket",
+  "description": "خرید و فروش خدمات سئو، لینک‌سازی، طراحی گرافیک، برنامه‌نویسی وب و موبایل، دستیار مجازی و خدمات دیجیتال مارکتینگ",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["business", "shopping", "productivity"],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
+

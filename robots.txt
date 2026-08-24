@@ -1,0 +1,29 @@
+# robots.txt for LinkMarket
+# بازار خدمات سئو و برنامه‌نویسی حرفه‌ای ایران
+
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /select-role/
+Disallow: /zibal-payment/
+
+# Allow assets
+Allow: /assets/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.gif
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.ico
+
+# Sitemap
+Sitemap: https://lancerha.ir/sitemap.xml
+
+# Crawl-delay (optional - برای کاهش بار سرور)
+# Crawl-delay: 1

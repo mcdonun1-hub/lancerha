@@ -1,0 +1,27 @@
+# لیست URLهای Canonical سایت لینک مارکت
+# معماری URL: Semantic، بدون ID، SEO-Friendly
+
+## صفحه اصلی
+/
+
+## صفحات دسته‌بندی خدمات
+/link-sazi-seo
+/honar-va-tarahi-grafic
+/seo-va-behineh-sazi-site
+/programming-web-app
+/dastiar-majazi-online
+/seo-mahali-google-maps
+/mehman-nevisi-rportaj
+
+## صفحات کاربری (private — no-index)
+/tanzimat/hesab-karbari
+
+## صفحات جزئیات سرویس (Dynamic)
+# فرمت: /khadamat/{service-title-slug}
+# مثال: /khadamat/bak-link-seo-ghodratmand-baraye-ratbeh-bandy-bartar-google
+
+## Legacy Redirects (301)
+# /bazar-lm1a1n2/linkmarket-main-seo-professional-iran → /
+# /link-sazi-seo/{pageSlug} → /link-sazi-seo
+# /honar-va-tarahi-grafic/{pageSlug} → /honar-va-tarahi-grafic
+# /khadamat-svc{id}a{id}n{id2}/{slug} → /khadamat/{slug}
